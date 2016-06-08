@@ -6,3 +6,4 @@ npm-debug.log
 .npmrc
 target
 node
+surefire-reports

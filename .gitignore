@@ -3,3 +3,6 @@ bower_components
 .sass-cache
 coverage
 npm-debug.log
+.npmrc
+target
+node
